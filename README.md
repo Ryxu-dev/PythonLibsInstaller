@@ -2,7 +2,7 @@
 # Instalador y Descripción de Librerías Python
 
 🔍 **Descripción**  
-Este proyecto contiene dos scripts principales:  
+Este proyecto contiene 1 script:
 1. **Listado y descripción de librerías instaladas:** Obtiene la lista de librerías Python instaladas en el entorno y busca sus descripciones desde PyPI, para generar un archivo de texto con esta información.  
 2. **Instalador masivo de librerías:** Instala automáticamente una lista extensa de librerías populares y útiles para diferentes ámbitos (web, ciencia de datos, multimedia, automatización, etc.) usando `pip`.
 
