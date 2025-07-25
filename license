@@ -1,27 +1,25 @@
+Licencia de Uso No Comercial
 
----
+Copyright (c) 2025 [Ryxu]
 
-## 📄 `LICENSE` (MIT License)
+Este software y todos sus archivos asociados son de uso libre bajo las siguientes condiciones:
 
-```text
-MIT License
+1. Uso permitido:
+   - El código puede ser utilizado, modificado y compartido libremente para fines personales, educativos o no comerciales.
+   - Se permite la distribución del código siempre que se mantenga esta licencia intacta y se incluya la atribución al autor original.
 
-Copyright (c) 2025 Ryxu
+2. Restricciones:
+   - Queda terminantemente prohibido el uso de este código con fines comerciales, incluyendo pero no limitado a:
+     - Venta del software total o parcial. (NO podés ganar dinero directa o indirectamente gracias al código.)
+     - Venta del software oficial o modificado. (NO podés vender el código, ni como está ni modificado.)
+     - Inclusión en productos o servicios comerciales, sean pagos o gratuitos con fines de lucro. (NO podés usarlo en una web, bot o servicio que tenga publicidad, suscripciones, pagos, donaciones, etc.)
+     - Monetización directa o indirecta basada en este código. (NO podés incluirlo en una app o programa que vayas a vender.)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+3. Atribución:
+   - Siempre debe reconocerse al autor original (por nombre o alias) en cualquier copia o derivación del código.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+4. Ausencia de garantías:
+   - Este software se proporciona "tal cual", sin garantías de ningún tipo.
+   - El autor no se hace responsable por daños directos o indirectos derivados del uso de este código.
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Al usar este software, aceptás automáticamente los términos de esta licencia.
