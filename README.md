@@ -150,10 +150,11 @@ Si te gustó este proyecto y querés apoyar mi trabajo, podés donar a través d
 
 ---
 
-## Licencia
+### 🛡️ Licencia
 
-Este proyecto está bajo la licencia MIT.
-Puedes usar, modificar y distribuir libremente el código, siempre y cuando mantengas la atribución original.
+Este proyecto está bajo una licencia personalizada de uso **No Comercial**.  
+Podés usarlo y modificarlo libremente, pero **no está permitido venderlo**.  
+Consulta el archivo `LICENSE.txt` para más información.
 
 ---
 
