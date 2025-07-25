@@ -9,14 +9,14 @@ Este proyecto incluye dos scripts:
 
 - Escaneo y descripción de paquetes instalados.
 - Generación de un archivo `installed_libraries_info.txt` con la información.
-- Instalación automática de más de 150 librerías comunes de Python para desarrollo, ciencia de datos, web, automatización y más.
+- Instalación automática de más de `170 librerías` comunes de Python para desarrollo, ciencia de datos, web, automatización y más.
 
 ## 📂 Archivos incluidos
 
-- `scanner.py`: escanea librerías y guarda sus descripciones.
 - `installer.py`: instala automáticamente todas las librerías listadas.
 - `requirements.txt`: contiene todas las librerías listadas.
-- `LICENSE`: licencia MIT.
+- `LICENSE`: licencia de uso.
+- `readme.md`: este archivo.
 
 ## ⚙️ Requisitos
 
@@ -33,11 +33,11 @@ git clone https://github.com/tuusuario/python-library-scanner.git
 cd python-library-scanner
 ```
 
-2. Ejecuta el escáner:
+2. Ejecuta el script:
 
-python scanner.py
+python installer.py
 
-3. Para instalar todas las librerías de requirements.txt:
+3. Para instalar todas las librerías de requirements.txt: (si da error el script)
 pip install -r requirements.txt
 
 O, para usar el instalador personalizado:
